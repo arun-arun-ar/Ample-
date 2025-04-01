@@ -7,25 +7,14 @@ import About from "./components/About"
 import WhyAmpleEdu from "./components/WhyAmpleEdu"
 import Branches from "./components/Branches"
 import Services from "./components/Services"
+import ImportentDocs from "./components/ImportentDocs"
 
 
 function App() {
 
   return (
     <>
-
-    <Services />
-
-      <Branches />
-      
-      <WhyAmpleEdu />
-
-      <About />
-
-      <MeetOurTeam />
-
-
-
+      <ImportentDocs />
     </>
   )
 }
