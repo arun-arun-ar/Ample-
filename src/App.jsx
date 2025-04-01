@@ -9,12 +9,15 @@ import Branches from "./components/Branches"
 import Services from "./components/Services"
 import ImportentDocs from "./components/ImportentDocs"
 import BloogDetails from "./components/BloogDetails"
+import TopUniversities from "./components/TopUniversities"
 
 
 function App() {
 
   return (
     <>
+
+      <TopUniversities />
       <BloogDetails />
       <ImportentDocs />
     </>
