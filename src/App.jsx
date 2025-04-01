@@ -8,12 +8,14 @@ import WhyAmpleEdu from "./components/WhyAmpleEdu"
 import Branches from "./components/Branches"
 import Services from "./components/Services"
 import ImportentDocs from "./components/ImportentDocs"
+import BloogDetails from "./components/BloogDetails"
 
 
 function App() {
 
   return (
     <>
+      <BloogDetails />
       <ImportentDocs />
     </>
   )

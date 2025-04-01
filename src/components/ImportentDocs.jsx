@@ -42,7 +42,7 @@ const ImportentDocs = () => {
                 <div className='my-10 py-10'>
                     <h1 className='py-4 my-4'>Sudy In UK</h1>
                     {/* Document components */}
-                    <div className='shadow-[0_3px_10px_rgb(0,0,0,0.2)] p-4 mx-2 flex flex-col sm:items-center sm:justify-center w-fit'>
+                    <div className='shadow-[0_3px_10px_rgb(0,0,0,0.2)] rounded-md p-4 mx-2 flex flex-col sm:items-center sm:justify-center w-fit'>
                         <img src="/Transcript.png" alt="" />
                         <h3 className='text-2xl font-semibold py-3 text-center'>Grade 10 Transcript</h3>
                     </div>
