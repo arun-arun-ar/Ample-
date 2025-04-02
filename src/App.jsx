@@ -11,6 +11,7 @@ import ImportentDocs from "./components/ImportentDocs"
 import BloogDetails from "./components/BloogDetails"
 import TopUniversities from "./components/TopUniversities"
 import Contact from "./components/Contact"
+import ContactUs from "./components/ContactUs"
 
 
 
@@ -19,6 +20,7 @@ function App() {
   return (
     <>
       <Contact />
+      <ContactUs />
     </>
   )
 }
